@@ -21,7 +21,7 @@ const Header = () => {
 
                 <nav>
                 <img src="user.png" alt=""></img> 
-                <h5>{}</h5>
+                <h5>user</h5>
                 <img className="menu-button" src="down.png" alt=""></img>
                 </nav>
                 <div className="dropdown-menu">
